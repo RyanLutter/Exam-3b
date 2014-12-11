@@ -52,7 +52,7 @@
 	div.sidebar-left{
 		float:left;
 		padding:0 10px;
-		width:200px;	
+		width:200px;
 		}
 		
 	div.sidebar-left a{
@@ -97,3 +97,8 @@
 	.clear{
 		clear:both; 
 	}	
+
+    .validator{
+        color: red;
+        font-weight: bold;
+    }
